@@ -1,0 +1,104 @@
+a:link {
+    color:#FFFFFF;
+    text-decoration:none;
+}
+a:visited {
+    color: azure;
+    text-decoration:none;
+}
+a:hover {
+    color: darkgray;
+    text-decoration:none;
+}
+a:active {
+    color: darkgray;
+    text-decoration:none;
+}
+
+.h_top{
+    height: 100px;
+    width: 100%;
+}
+
+#title{
+    position: relative;
+    left: 30px;
+    top: 20px;
+    color: rgba(39,169,227,125);
+
+
+}
+.head_w_width{
+    width: 260px;
+    text-decoration-color: white;
+    background-color: rgba(39,169,227,125);
+    border-radius: 5px;
+}
+
+
+.bottom{
+    background-color: powderblue;
+    color: honeydew;
+    position: center;
+    height: 100px;
+}
+
+.container{
+    height: 400px;
+    background-color: aliceblue;
+    position: center;
+}
+
+.mode{
+    width: 333px;
+    height: 80px;
+    position: center;
+    color: #FFFFFF;
+
+}
+#mode1{
+    background-color: rgba(39,169,227,125);
+}
+
+#mode2{
+    background-color: darkorange;
+}
+
+#mode3{
+    background-color: plum;
+}
+
+#w_zhuce{
+    position: relative;
+    /*left: 170px;*/
+    top: 100px;
+
+
+}
+
+.table2
+{
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+.table3{
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    /*底线为1像素，黑色*/
+    border-bottom:1px solid #27A9E3;
+    text-align: center;
+    /*使表格框线消失*/
+    border-collapse: collapse;
+    border-spacing: 10px;
+}
+
+
+.user_xianshi{
+    float: right;
+    position:relative;
+    left:-50px;
+    top: 13px;
+}
+
